@@ -1,0 +1,1 @@
+This is a micromouse simulator , intended for testing various algorithms with the micromouse problem statement . It is being updated so that it can be used for other pathfinding or maze solving situations as well . It is being coded in python .
